@@ -18,6 +18,7 @@ THis is new text in the Deployment section that I am adding here.
 ## How To Contribute
 
 Sample website with plenty of files for demos
+More text in how to contribute section.
 
 ### Copyright
 
