@@ -4,6 +4,7 @@
 # TEAM
 
     <name> Manvir <role> Programmer <twitter> @manvir
+	Rajji Mann
 
 # THANKS
 
