@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 I am now adding some more text here. 
+Adding 3rd row in Starter section.
 
 ## Introduction
 
