@@ -25,3 +25,4 @@ More text in how to contribute section.
 ### Copyright
 
 Git.training
+All rights reserved.
